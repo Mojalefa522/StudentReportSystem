@@ -1,0 +1,14 @@
+C:\Users\datal\source\repos\StudentReportSystem\bin\Debug\net10.0\StudentReportSystem.exe
+C:\Users\datal\source\repos\StudentReportSystem\bin\Debug\net10.0\StudentReportSystem.deps.json
+C:\Users\datal\source\repos\StudentReportSystem\bin\Debug\net10.0\StudentReportSystem.runtimeconfig.json
+C:\Users\datal\source\repos\StudentReportSystem\bin\Debug\net10.0\StudentReportSystem.dll
+C:\Users\datal\source\repos\StudentReportSystem\bin\Debug\net10.0\StudentReportSystem.pdb
+C:\Users\datal\source\repos\StudentReportSystem\obj\Debug\net10.0\StudentReportSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datal\source\repos\StudentReportSystem\obj\Debug\net10.0\StudentReportSystem.AssemblyInfoInputs.cache
+C:\Users\datal\source\repos\StudentReportSystem\obj\Debug\net10.0\StudentReportSystem.AssemblyInfo.cs
+C:\Users\datal\source\repos\StudentReportSystem\obj\Debug\net10.0\StudentReportSystem.csproj.CoreCompileInputs.cache
+C:\Users\datal\source\repos\StudentReportSystem\obj\Debug\net10.0\StudentReportSystem.dll
+C:\Users\datal\source\repos\StudentReportSystem\obj\Debug\net10.0\refint\StudentReportSystem.dll
+C:\Users\datal\source\repos\StudentReportSystem\obj\Debug\net10.0\StudentReportSystem.pdb
+C:\Users\datal\source\repos\StudentReportSystem\obj\Debug\net10.0\StudentReportSystem.genruntimeconfig.cache
+C:\Users\datal\source\repos\StudentReportSystem\obj\Debug\net10.0\ref\StudentReportSystem.dll
